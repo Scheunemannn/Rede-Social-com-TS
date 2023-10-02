@@ -14,7 +14,7 @@ const posts: PostType[] = [
     },
     content: [
       {type: 'paragraph', content: 'Fala galeraa 👋'},
-      {type: 'paragraph', content: 'O botico doi, mas só no começo'},
+      {type: 'paragraph', content: 'Estudando Next :D'},
       {type: 'link', content: 'jane.design/doctorcare'},
     ],
     publishedAt: new Date('2023-08-21 10:37:00')
@@ -28,7 +28,7 @@ const posts: PostType[] = [
     },
     content: [
       {type: 'paragraph', content: 'Fala galeraa 👋'},
-      {type: 'paragraph', content: 'Acabei de dar o tobinha, foi bom'},
+      {type: 'paragraph', content: 'Estudando React!'},
       {type: 'link', content: 'IAAAAA'},
   ],
     publishedAt: new Date('2023-08-20 10:38:00')
